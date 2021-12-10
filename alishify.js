@@ -6,7 +6,7 @@ const spDcCookie = process.env.SP_DC;
 const username = process.env.USERNAME;
 const tweetName = process.env.TWEET_NAME;
 
-let previous = null;
+let previous = {};
 
 const T = new twit({
   consumer_key: process.env.TWITTER_API_KEY,
