@@ -65,4 +65,4 @@ async function main() {
 
 main();
 
-setInterval(() => main(), 1000 * 59);
+setInterval(() => main(), 1000 * 60);

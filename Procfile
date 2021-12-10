@@ -1,1 +1,1 @@
-web: node alishify.js
+worker: node alishify.js
