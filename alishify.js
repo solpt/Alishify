@@ -59,7 +59,7 @@ async function main() {
         console.log("COULD NOT TWEET!\n\n" + error);
       }
       
-    }
+    } console.log("No change");
   }
 }
 
