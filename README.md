@@ -4,7 +4,7 @@ Alsihify is a bot that gets what song a friend is listening to on spotify and th
 ![An example of a tweet](https://i.imgur.com/tAAIJsM.png)
 
 ## Requirements
-Alishify is built off of [Spotify-Buddylist](https://github.com/valeriangalliat/spotify-buddylist), [Twit](https://github.com/ttezel/twit), and [dotenv](https://github.com/motdotla/dotenv).
+Alishify is built off of [Node.js](https://nodejs.org/), [Spotify-Buddylist](https://github.com/valeriangalliat/spotify-buddylist), [Twit](https://github.com/ttezel/twit), and [dotenv](https://github.com/motdotla/dotenv).
 
 You also must be friends with the person on spotify!
 
