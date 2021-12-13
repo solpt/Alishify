@@ -3,7 +3,7 @@ var twit = require("twit");
 require("dotenv/config");
 
 const spDcCookie = process.env.SP_DC;
-const username = process.env.USERNAME;
+const username = process.env.SPOTIFY_NAME;
 const tweetName = process.env.TWEET_NAME;
 
 let previous = {};
